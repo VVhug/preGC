@@ -1,0 +1,186 @@
+﻿生成启动时间为 2019/9/23 8:32:37。
+     1>项目“C:\Users\Administrator\Desktop\实验scheme实现\gftl_3d\gftl_3d.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Tools\vs2015\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt initialize.c
+         initialize.c
+     1>initialize.c(394): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(396): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(398): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(400): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(402): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(404): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(406): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(408): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(410): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(412): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(414): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(416): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(418): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(420): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(422): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(424): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(426): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(428): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(430): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(432): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(434): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(436): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(438): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(440): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(442): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(444): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(446): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(448): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(450): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(452): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(454): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(456): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(458): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(460): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(462): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(464): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(466): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(468): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(470): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(472): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(474): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(476): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(478): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(480): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(482): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(484): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(486): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(488): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(490): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(492): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(494): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(496): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(498): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(500): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(502): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(504): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(506): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(508): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(510): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(512): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(514): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(516): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(518): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(520): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(522): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(524): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(526): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(528): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(530): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(532): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(534): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(536): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(538): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(540): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(542): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(544): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(546): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(548): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(550): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(552): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(554): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(556): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(559): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+     1>initialize.c(560): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Tools\vs2015\VC\include\stdio.h(304) : 参见“sscanf”的声明
+       Link:
+         D:\Tools\vs2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\实验scheme实现\gftl_3d\Release\gftl_3d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\实验scheme实现\gftl_3d\Release\gftl_3d.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\实验scheme实现\gftl_3d\Release\gftl_3d.lib" /MACHINE:X86 /SAFESEH Release\avlTree.obj
+         Release\flash.obj
+         Release\initialize.obj
+         Release\pagemap.obj
+         Release\ssd.obj
+     1>LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+         gftl_3d.vcxproj -> C:\Users\Administrator\Desktop\实验scheme实现\gftl_3d\Release\gftl_3d.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\实验scheme实现\gftl_3d\gftl_3d.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.09
